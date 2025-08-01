@@ -17,6 +17,6 @@ class Telefono {
     }
 
     public void hacerLlamadaTelefonica() {
-        System.out.println("Haciendo una llamada...");
+        System.out.println("Haciendo una llamada desde un teléfono de color " + color + " y marca " + marca + "...");
     }
 }
